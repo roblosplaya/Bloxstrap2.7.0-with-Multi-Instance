@@ -15,3 +15,4 @@ To use it,simply replace the Bloxstrap.exe at %localappdata%\Bloxstrap with the 
 https://www.virustotal.com/gui/file/f5a04c5d6ddcb4cc3925656919c37a9ca18f20f3623c722dc45499cf1e4de8a8
 
 # Download
+![lastest release](https://github.com/roblosplaya/Bloxstrap2.6.1-with-Multi-Instance/releases/tag/2.6.1)
