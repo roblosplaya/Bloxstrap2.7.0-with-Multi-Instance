@@ -6,7 +6,7 @@ originally made by vertical (horizanvet) on discord
 To use it,simply replace the Bloxstrap.exe at %localappdata%\Bloxstrap with the given .exe
 
 [Guide on how to install it](https://www.youtube.com/watch?v=fGm2sPt9Sh8) (ignore the Discord part)
- If it's not working for you, try turning off this setting and instlaling it again
+ If it's not working for you, try turning off this setting and installing it again
 ![image](https://github.com/TheConfusedlol/Bloxstrap2.6.1-with-Multi-Istance/assets/69022214/fc42d2f9-1b25-4d4c-87b8-ff9697ad47f4)
 
 # Virus-Total Results
@@ -14,3 +14,4 @@ To use it,simply replace the Bloxstrap.exe at %localappdata%\Bloxstrap with the 
 
 https://www.virustotal.com/gui/file/f5a04c5d6ddcb4cc3925656919c37a9ca18f20f3623c722dc45499cf1e4de8a8
 
+# Download
