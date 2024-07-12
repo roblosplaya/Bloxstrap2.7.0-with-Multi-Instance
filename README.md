@@ -1,4 +1,4 @@
-# Bloxstrap2.6.1-with-Multi-Istance
+# Bloxstrap2.7.0-with-Multi-Istance
 originally made by vertical (horizanvet) on discord
 
 # Installation
